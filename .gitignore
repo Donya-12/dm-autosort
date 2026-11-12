@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Служебные файлы утилиты
+_autosort_log.csv
+*.autosort-tmp
+.autosort_cache.json
+
+# ОС
+.DS_Store
+Thumbs.db
+desktop.ini
